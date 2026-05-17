@@ -1,16 +1,85 @@
-# React + Vite
+A modern futuristic frontend web application developed using React.js, Vite, Tailwind CSS, Framer Motion, and React Router DOM.
+# Live Demo
+https://bizleap-assignmemt-fvuk-r4la1llxf-kanak53s-projects.vercel.app/
+# Tech Stack
+React.js
+ Vite
+ Tailwind CSS
+Framer Motion
+React Router DOM
+# Features
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ Fully Responsive Design
+ Reusable Component Architecture
+ Anti-Gravity Animations
+ Glassmorphism UI
+ Smooth Transitions
+ Interactive Hover Effects
+ Modern UI/UX
+ Performance Optimized
+ Mobile Friendly Design
 
-Currently, two official plugins are available:
+# Folder Structure
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+src/
+│
+├── assets/
+├── components/
+│ ├── layout/
+│ ├── sections/
+│ └── ui/
+│
+├── pages/
+├── routes/
+├── App.jsx
+├── main.jsx
+└── index.css
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+# Installation
 
-## Expanding the ESLint configuration
+Clone the repository:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+git clone YOUR_GITHUB_REPO_LINK
+
+Navigate to project folder:
+
+cd nexus-ui
+
+Install dependencies:
+
+npm install
+
+Run development server:
+
+npm run dev
+
+---
+
+# Build Project
+
+npm run build
+
+---
+
+# Deployment
+
+The project is deployed using Vercel.
+
+---
+
+# UI/UX Focus
+
+This project focuses on:
+
+Clean reusable architecture
+Responsive layouts
+ Smooth user experience
+ Premium futuristic interface
+Interactive animations
+ Scalable frontend structure
+
+# Author
+
+Kanak Didpaye
